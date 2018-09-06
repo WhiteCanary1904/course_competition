@@ -3172,22 +3172,25 @@ fieldset[disabled] .btn-primary.focus {
 }
 .btn-success {
   color: #fff;
-
   background-color: #5cb85c;
-  border-color: #4cae4c;
-}
-
-  .btn-pinterest{
-    background-color:#e60000;
-  }
+  border-color: #4cae4c;}
 
   .btn-facebook{
-background-color: #000066;
+  color: #fff;
+  background-color: #3B5998;
+
+  }
+  .btn-pinterest{
+  color: #fff;
+  background-color: #c8232c;
+  }
+  .btn-twitter{
+    color: #fff;
+    background-color: #0084b4;
+    border-color: #04516d;
+
   }
 
-  .btn-twitter{
-    background-color:  #33cccc;
-  }
 
 .btn-success:focus,
 .btn-success.focus {
@@ -6769,3 +6772,8 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.viewMore{
+  color: #cc33ff;
+
+  }
